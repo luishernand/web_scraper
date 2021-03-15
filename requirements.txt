@@ -1,5 +1,6 @@
 streamlit
-requestspandas==1.0.5
+requests
+pandas
 numpy
 lxml
 beautifulsoup4
