@@ -5,3 +5,5 @@ numpy
 lxml
 beautifulsoup4
 html5lib
+requests
+base64
