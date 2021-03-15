@@ -1,0 +1,6 @@
+streamlit
+requestspandas==1.0.5
+numpy
+lxml
+beautifulsoup4
+html5lib
