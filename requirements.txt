@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-beautifulsoup4
-html5lib
-requests
-pybase64
-lxml
